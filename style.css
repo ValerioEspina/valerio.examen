@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+    max-width: 960px;
+    margin: 30px auto 0px;
+    padding: 10px;
+    background-color: lightblue ;
+    color: whitesmoke;
+    font-weight: normal;
+    font-style: normal;
+    font-size: large;}
+p{
+    margin: 30px auto 0px;
+    border: 2px solid #ffffff;}
+h1{
+    color: black;}
+
+h5{ 
+    color: lightgoldenrodyellow;}
+a{
+        background-image: linear-gradient(#a5dff4, #3e8ed4);}
+        img{
+            max-width: 20px;
+        }
